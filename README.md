@@ -12,4 +12,5 @@
 
 | Build |   Date    |                 Details                 |
 |:-----:|:---------:|:--------------------------------------- |
+|   2   | 6-27-2015 | Added the photo database script         |
 |   1   | 6-27-2015 | First build of the repo                 |
